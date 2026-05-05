@@ -6,6 +6,8 @@ An interactive R Shiny application for exploring Women, Business and the Law (WB
 Parenthood Pillar data. Built as a proof-of-concept to support policy dialogue on
 legal reform, gender equality, and economic outcomes.
 
+Link to the tool: https://aieshdavis.shinyapps.io/WBLTool_Parenthood/ 
+
 Developed by Aieshwarya Davis.
 
 ## What the tool does
